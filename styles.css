@@ -107,3 +107,19 @@ h3{
     padding: 20px;
     margin-bottom: 20px;
   }
+.tag{
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #3882F6;
+    background-color: #E5E7EB;
+    gap: 20px;
+    border-radius: 10px;
+}
+a:hover{
+color:#000;
+transition: 0.3s;
+text-decoration: none;
+cursor: pointer;
+font-weight: 300;
+}
